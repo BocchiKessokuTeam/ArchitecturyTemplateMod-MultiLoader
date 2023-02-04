@@ -19,13 +19,9 @@
       "net.examplemod.fabric.ExampleModFabric"
     ]
   },
-  "mixins": [
-    "examplemod.mixins.json",
-    "examplemod-common.mixins.json"
-  ],
   "depends": {
     "fabric": "*",
-    "minecraft": ">=1.17.1",
-    "architectury": ">=2.10.12"
+    "minecraft": ">=1.18.2",
+    "architectury": ">=4.9.83"
   }
 }
