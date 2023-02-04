@@ -1,5 +1,5 @@
 modLoader = "javafml"
-loaderVersion = "[40,)"
+loaderVersion = "[43,)"
 #issueTrackerURL = ""
 license = "Insert License Here"
 
@@ -16,20 +16,20 @@ This is an example description! Tell everyone what your mod is about!
 [[dependencies.examplemod]]
 modId = "forge"
 mandatory = true
-versionRange = "[40,)"
+versionRange = "[43,)"
 ordering = "NONE"
 side = "BOTH"
 
 [[dependencies.examplemod]]
 modId = "minecraft"
 mandatory = true
-versionRange = "[1.18.2,)"
+versionRange = "[1.19.2,)"
 ordering = "NONE"
 side = "BOTH"
 
 [[dependencies.examplemod]]
 modId = "architectury"
 mandatory = true
-versionRange = "[4.9.83,)"
+versionRange = "[6.2.43,)"
 ordering = "AFTER"
 side = "BOTH"
